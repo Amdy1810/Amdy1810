@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mouhamadou Moustapha NDAO
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Système Réseau
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Informatique
+- 💞️ I’m looking to collaborate on Sustème Réseau
 - 📫 How to reach me mouhamadoumoustapha.ndao@uadb.edu.sn
 
 <!---
